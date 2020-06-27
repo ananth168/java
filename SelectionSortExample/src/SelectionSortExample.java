@@ -4,7 +4,10 @@ public class SelectionSortExample
 {  
    public static void main( String args[] )  
    {  
-       int size, i, j, temp;  
+       int size;
+       int i; 
+       int j;
+       int temp;  
        int arr[] = new int[50];  
        Scanner scan = new Scanner( System.in );  
          
